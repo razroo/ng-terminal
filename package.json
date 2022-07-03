@@ -1,6 +1,7 @@
 {
-  "name": "ng-terminal-workspace",
+  "name": "@razroo/ng-terminal",
   "version": "0.0.0",
+  "repository": "git://github.com/razroo/ng-terminal.git",
   "scripts": {
     "prestart": "npm run build",
     "prepublish": "npm run license && npm run lib:build:prod && copyfiles README.md dist/ng-terminal",
