@@ -1,5 +1,5 @@
 {
-  "name": "ng-terminal",
+  "name": "@razroo/ng-terminal",
   "version": "5.0.0",
   "description": "NgTerminal is a terminal component on Angular 12 or higher.",
   "license": "MIT",
@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:qwefgh90/ng-terminal.git"
+    "url": "git@github.com:razroo/ng-terminal.git"
   },
   "bugs": {
     "url": "https://github.com/qwefgh90/ng-terminal/issues"
   },
   "author": {
-    "name": "Choe Changwon",
-    "email": "qwefgh90@naver.com"
+    "name": "Razroo team",
+    "email": "dovid@razroo.com"
   },
-  "homepage": "https://github.com/qwefgh90/ng-terminal",
+  "homepage": "https://github.com/razroo/ng-terminal",
   "private": false,
   "keywords": [
     "emulator",

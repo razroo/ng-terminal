@@ -186,8 +186,8 @@
 │  ├─ repository: https://github.com/babel/babel
 │  ├─ publisher: The Babel Team
 │  ├─ url: https://babel.dev/team
-│  ├─ path: /Users/charlie/Razroo/ng-terminal/node_modules/@babel/helper-remap-async-to-generator/node_modules/@babel/helper-annotate-as-pure
-│  └─ licenseFile: /Users/charlie/Razroo/ng-terminal/node_modules/@babel/helper-remap-async-to-generator/node_modules/@babel/helper-annotate-as-pure/LICENSE
+│  ├─ path: /Users/charlie/Razroo/ng-terminal/node_modules/@babel/helper-create-class-features-plugin/node_modules/@babel/helper-annotate-as-pure
+│  └─ licenseFile: /Users/charlie/Razroo/ng-terminal/node_modules/@babel/helper-create-class-features-plugin/node_modules/@babel/helper-annotate-as-pure/LICENSE
 ├─ @babel/helper-builder-binary-assignment-operator-visitor@7.16.7
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/babel/babel
@@ -940,7 +940,7 @@
 │  ├─ url: https://izs.me
 │  ├─ path: /Users/charlie/Razroo/ng-terminal/node_modules/@npmcli/run-script
 │  └─ licenseFile: /Users/charlie/Razroo/ng-terminal/node_modules/@npmcli/run-script/LICENSE
-├─ @razroo/ng-terminal@0.0.0
+├─ @razroo/ng-terminal@0.0.1
 │  ├─ licenses: ISC
 │  ├─ repository: https://github.com/razroo/ng-terminal
 │  ├─ path: /Users/charlie/Razroo/ng-terminal
@@ -7266,8 +7266,8 @@
 │  ├─ publisher: Sindre Sorhus
 │  ├─ email: sindresorhus@gmail.com
 │  ├─ url: sindresorhus.com
-│  ├─ path: /Users/charlie/Razroo/ng-terminal/node_modules/protractor/node_modules/strip-ansi
-│  └─ licenseFile: /Users/charlie/Razroo/ng-terminal/node_modules/protractor/node_modules/strip-ansi/license
+│  ├─ path: /Users/charlie/Razroo/ng-terminal/node_modules/webpack-dev-server/node_modules/strip-ansi
+│  └─ licenseFile: /Users/charlie/Razroo/ng-terminal/node_modules/webpack-dev-server/node_modules/strip-ansi/license
 ├─ strip-ansi@5.2.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/chalk/strip-ansi
